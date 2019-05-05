@@ -1,0 +1,3 @@
+/home/m/ma_yed/project1/code/build/CMakeFiles/rebuild_cache.dir
+/home/m/ma_yed/project1/code/build/CMakeFiles/edit_cache.dir
+/home/m/ma_yed/project1/code/build/CMakeFiles/seg.dir
